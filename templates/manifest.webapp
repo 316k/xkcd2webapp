@@ -1,0 +1,13 @@
+{
+    "version": "DATE",
+    "name": "XKCD Archives",
+    "description": "Read XKCD while you are offline !"
+    "launch_path": "/LATEST.html",
+    "icons": {
+    },
+    "developer": {
+        "name": "316k",
+        "url": "http://wasting-ti.me/"
+    },
+    "default_locale": "en"
+}

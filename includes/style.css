@@ -1,0 +1,18 @@
+body {
+    background-color: #96A8C8;
+    color: black;
+    font-variant: small-caps;
+    font-family: Lucida,Helvetica,sans-serif;
+    text-align: center;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.img-overflow {
+    overflow: scroll;
+    display: block;
+}
+
+h1 {
+    font-size: 21px;
+}
