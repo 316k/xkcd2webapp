@@ -1,9 +1,13 @@
-xkcd2fxos
-=========
+xkcd2webapp
+===========
 
 Downloads XKCD comics and saves them as an offline webapp.
 It was tested on a Firefox OS phone.
 
+## How to use
+
+Simply run `./update.sh` whenever you want to update the app. The resulting
+webapp will be in the `output` folder and in the `xkcd-archive.zip` file.
 
 ## Attribution
 
