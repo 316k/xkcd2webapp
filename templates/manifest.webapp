@@ -1,9 +1,10 @@
 {
     "version": "DATE",
     "name": "XKCD Archives",
-    "description": "Read XKCD while you are offline !"
+    "description": "Read XKCD while you are offline !",
     "launch_path": "/LATEST.html",
     "icons": {
+        "128": "/includes/icon-128.png"
     },
     "developer": {
         "name": "316k",
